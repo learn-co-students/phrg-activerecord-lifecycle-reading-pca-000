@@ -119,4 +119,7 @@ Before you move on, let's cover one last callback that is super useful. This one
 
 For more information on all of the callbacks available to you, check out [this amazing rails guide](http://guides.rubyonrails.org/active_record_callbacks.html).
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-activerecord-lifecycle-reading/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-activerecord-lifecycle-reading/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Objectives</p>
